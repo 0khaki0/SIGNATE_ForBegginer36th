@@ -28,7 +28,7 @@ Training
 
      accuracy                           0.83       240
     macro avg       0.77      0.61      0.64       240
- weighted avg       0.82      0.83      0.80       240
+    weighted avg       0.82      0.83      0.80       240
 
 Test
 -Accuracy
